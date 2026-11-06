@@ -1,0 +1,382 @@
+{
+  "EURUSD": {
+    "symbol": "EURUSD",
+    "broker_symbol": "EURUSD",
+    "spread_price": 0.00012,
+    "spread_pips": 1.2,
+    "pip_size": 0.0001,
+    "tick_size": 1e-05,
+    "tick_value": 1.0,
+    "contract_size": 100000.0,
+    "commission_per_lot": 6.0,
+    "slippage_price": 1e-05,
+    "default_lots": 1.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -11.5,
+    "swap_per_lot_short": 4.2,
+    "tradable_session_windows": {}
+  },
+  "GBPJPY": {
+    "symbol": "GBPJPY",
+    "broker_symbol": "GBPJPY",
+    "spread_price": 0.025,
+    "spread_pips": 2.5,
+    "pip_size": 0.01,
+    "tick_size": 0.001,
+    "tick_value": 0.65,
+    "contract_size": 100000.0,
+    "commission_per_lot": 5.0,
+    "slippage_price": 0.01,
+    "default_lots": 1.54,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": 12.0,
+    "swap_per_lot_short": -35.0,
+    "tradable_session_windows": {}
+  },
+  "GBPUSD": {
+    "symbol": "GBPUSD",
+    "broker_symbol": "GBPUSD",
+    "spread_price": 0.00018,
+    "spread_pips": 1.8,
+    "pip_size": 0.0001,
+    "tick_size": 1e-05,
+    "tick_value": 1.0,
+    "contract_size": 100000.0,
+    "commission_per_lot": 7.0,
+    "slippage_price": 2e-05,
+    "default_lots": 1.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -8.5,
+    "swap_per_lot_short": 3.2,
+    "tradable_session_windows": {}
+  },
+  "GER40": {
+    "symbol": "GER40",
+    "broker_symbol": "GER40.cash",
+    "spread_price": 1.5,
+    "spread_pips": 15.0,
+    "pip_size": 0.1,
+    "tick_size": 0.1,
+    "tick_value": 0.108,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.5,
+    "default_lots": 9.26,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -3.8,
+    "swap_per_lot_short": -1.9,
+    "tradable_session_windows": {}
+  },
+  "HK50": {
+    "symbol": "HK50",
+    "broker_symbol": "HK50.cash",
+    "spread_price": 6.5,
+    "spread_pips": 650.0,
+    "pip_size": 0.01,
+    "tick_size": 0.01,
+    "tick_value": 0.001285,
+    "contract_size": 0.1285,
+    "commission_per_lot": 0.0,
+    "slippage_price": 1.5,
+    "default_lots": 1.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -3.5,
+    "swap_per_lot_short": -1.5,
+    "tradable_session_windows": {
+      "0": [
+        [
+          "03:20",
+          "11:55"
+        ]
+      ],
+      "1": [
+        [
+          "03:20",
+          "11:55"
+        ]
+      ],
+      "2": [
+        [
+          "03:20",
+          "11:55"
+        ]
+      ],
+      "3": [
+        [
+          "03:20",
+          "11:55"
+        ]
+      ],
+      "4": [
+        [
+          "03:20",
+          "11:55"
+        ]
+      ]
+    }
+  },
+  "JP225": {
+    "symbol": "JP225",
+    "broker_symbol": "JP225.cash",
+    "spread_price": 10.0,
+    "spread_pips": 10.0,
+    "pip_size": 1.0,
+    "tick_size": 1.0,
+    "tick_value": 0.65,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 2.0,
+    "default_lots": 1.54,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -0.5525,
+    "swap_per_lot_short": 0.0325,
+    "tradable_session_windows": {}
+  },
+  "UK100": {
+    "symbol": "UK100",
+    "broker_symbol": "UK100.cash",
+    "spread_price": 1.5,
+    "spread_pips": 15.0,
+    "pip_size": 0.1,
+    "tick_size": 0.1,
+    "tick_value": 0.125,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.5,
+    "default_lots": 8.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -12.0,
+    "swap_per_lot_short": 1.5,
+    "tradable_session_windows": {}
+  },
+  "US100": {
+    "symbol": "US100",
+    "broker_symbol": "US100.cash",
+    "spread_price": 2.0,
+    "spread_pips": 200.0,
+    "pip_size": 0.01,
+    "tick_size": 0.01,
+    "tick_value": 0.01,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.1,
+    "slippage_price": 0.5,
+    "default_lots": 100.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -5.8445,
+    "swap_per_lot_short": 0.2522,
+    "tradable_session_windows": {
+      "0": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "1": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "2": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "3": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "4": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "6": [
+        [
+          "21:00",
+          "23:59"
+        ]
+      ]
+    }
+  },
+  "US30": {
+    "symbol": "US30",
+    "broker_symbol": "US30.cash",
+    "spread_price": 2.5,
+    "spread_pips": 250.0,
+    "pip_size": 0.01,
+    "tick_size": 0.01,
+    "tick_value": 0.01,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.5,
+    "default_lots": 100.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -24.5,
+    "swap_per_lot_short": -12.2,
+    "tradable_session_windows": {
+      "0": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "1": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "2": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "3": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "4": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "6": [
+        [
+          "21:00",
+          "23:59"
+        ]
+      ]
+    }
+  },
+  "US500": {
+    "symbol": "US500",
+    "broker_symbol": "US500.cash",
+    "spread_price": 0.5,
+    "spread_pips": 5.0,
+    "pip_size": 0.1,
+    "tick_size": 0.1,
+    "tick_value": 0.1,
+    "contract_size": 1.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.1,
+    "default_lots": 10.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -4.85,
+    "swap_per_lot_short": -2.15,
+    "tradable_session_windows": {
+      "0": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "1": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "2": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "3": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "4": [
+        [
+          "00:00",
+          "23:00"
+        ]
+      ],
+      "6": [
+        [
+          "21:00",
+          "23:59"
+        ]
+      ]
+    }
+  },
+  "USDCAD": {
+    "symbol": "USDCAD",
+    "broker_symbol": "USDCAD",
+    "spread_price": 0.00015,
+    "spread_pips": 1.5,
+    "pip_size": 0.0001,
+    "tick_size": 1e-05,
+    "tick_value": 0.72,
+    "contract_size": 100000.0,
+    "commission_per_lot": 7.0,
+    "slippage_price": 2e-05,
+    "default_lots": 1.39,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -6.8,
+    "swap_per_lot_short": 2.1,
+    "tradable_session_windows": {}
+  },
+  "USDJPY": {
+    "symbol": "USDJPY",
+    "broker_symbol": "USDJPY",
+    "spread_price": 0.015,
+    "spread_pips": 1.5,
+    "pip_size": 0.01,
+    "tick_size": 0.001,
+    "tick_value": 0.674,
+    "contract_size": 100000.0,
+    "commission_per_lot": 2.5,
+    "slippage_price": 0.005,
+    "default_lots": 1.48,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": 13.5,
+    "swap_per_lot_short": -21.0,
+    "tradable_session_windows": {}
+  },
+  "USOIL": {
+    "symbol": "USOIL",
+    "broker_symbol": "USOIL.cash",
+    "spread_price": 0.03,
+    "spread_pips": 3.0,
+    "pip_size": 0.01,
+    "tick_size": 0.01,
+    "tick_value": 1.0,
+    "contract_size": 100.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.01,
+    "default_lots": 1.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -45.0,
+    "swap_per_lot_short": -22.0,
+    "tradable_session_windows": {}
+  },
+  "XAUUSD": {
+    "symbol": "XAUUSD",
+    "broker_symbol": "XAUUSD",
+    "spread_price": 0.25,
+    "spread_pips": 25.0,
+    "pip_size": 0.01,
+    "tick_size": 0.01,
+    "tick_value": 1.0,
+    "contract_size": 100.0,
+    "commission_per_lot": 0.0,
+    "slippage_price": 0.1,
+    "default_lots": 1.0,
+    "session_timezone_offset_hours": 0.0,
+    "swap_per_lot_long": -18.5,
+    "swap_per_lot_short": 2.5,
+    "tradable_session_windows": {}
+  }
+}
